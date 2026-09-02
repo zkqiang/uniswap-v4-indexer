@@ -42,24 +42,6 @@ contracts:
             - "hash"
             - "from"
 chains:
-  - id: 1
-    start_block: 0
-    contracts:
-      - name: PositionManager
-        address:
-          - 0xbD216513d74C8cf14cf4747E6AaA6420FF64ee9e
-      - name: PoolManager
-        address:
-          - "0x000000000004444c5dc75cB358380D2e3dE08A90"
-  - id: 56
-    start_block: 0
-    contracts:
-      - name: PositionManager
-        address:
-          - 0x7a4a5c919ae2541aed11041a1aeee68f1287f95b
-      - name: PoolManager
-        address:
-          - 0x28e2ea090877bf75740558f6bfb36a5ffee9e9df
   - id: 4663
     start_block: 9070
     contracts:
